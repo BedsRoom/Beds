@@ -10,10 +10,13 @@ Meow Yes Cat, Anyways...
   <h3 align="center">BedsRadio</h3>
 
   <p align="center">
-    BedsRadio is  a powerful music Bot
+    BedsRadio is  a powerful music Bot With Moderation Commands (Ona  seperate Code)
     <br />
    
 </p>
+
+## **IMPORTANT**
+| This bot is **NOT** for the public so of course the code will not work, you may explore it and ry to fix it but most things is just custom so good luck!
 
 ## 🎭 Features
 
@@ -67,28 +70,6 @@ Warning: Java v14 has issues with Lavalink.
 - spotify`*`
 - deezer`*`
 </p>
-
-## ⚙️ Configurations
-
-     "TOKEN": "", //Discord bot token 
-     "MONGOURL": "",  //MongoDb url
-     "KSOFT_API_KEY": "",  //ksoft api
-     "PREFIX": "",  //Default prefix
-     "OWNERID": "",  //Owner id
-     "SpotifyID": "",  //spotify client ID
-     "SpotifySecret": "", //spotify client secret
-     "embedColor": "",  //default embed color
-    
-## 🌋 lavalink 
-
-      "host": "disbotlistlavalink.ml",
-      "port": 443,
-      "password": "LAVA",
-      "retryDelay": 3000,
-      "secure": true
-
-- Create an application.yml file in your working directory and copy the [example](https://github.com/freyacodes/Lavalink/blob/master/LavalinkServer/application.yml.example) into the created file and edit it with your configuration.
-- Run the jar file by running `java -jar Lavalink.jar` in a Terminal window.
 
 
 <!-- ABOUT THE PROJECT -->
