@@ -85,22 +85,3 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
 [Support Server](https://discord.gg/gfcv94hDhv) - BedsRadio's Support Server Invite
 
 
-<!-- LICENSE -->
-
-## 🔐 License
-
-Distributed under the MIT License. See [`LICENSE`](https://github.com/brblacky/lavamusic/blob/master/LICENSE) for more information.
-
-[version-shield]: https://img.shields.io/github/package-json/v/brblacky/lavamusic?style=for-the-badge
-[version-url]: https://github.com/brblacky/lavamusic
-[contributors-shield]: https://img.shields.io/github/contributors/brblacky/lavamusic.svg?style=for-the-badge
-[contributors-url]: https://github.com/brblacky/lavamusic/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/brblacky/lavamusic.svg?style=for-the-badge
-[forks-url]: https://github.com/brblacky/lavamusic/network/members
-[stars-shield]: https://img.shields.io/github/stars/brblacky/lavamusic.svg?style=for-the-badge
-[stars-url]: https://github.com/brblacky/lavamusic/stargazers
-[issues-shield]: https://img.shields.io/github/issues/brblacky/lavamusic.svg?style=for-the-badge
-[issues-url]: https://github.com/brblacky/lavamusic/issues
-[license-shield]: https://img.shields.io/github/license/brblacky/lavamusic.svg?style=for-the-badge
-[license-url]: https://github.com/brblacky/lavamusic/blob/master/LICENSE
-
