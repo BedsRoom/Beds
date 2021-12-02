@@ -26,6 +26,7 @@ Meow Yes Cat, Anyways...
 - [x] custom prefix
 - [x] filters
 - [x] More
+- [ ] Api fixes
 
 
 ## 🖼️ Screenshots
