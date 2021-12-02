@@ -14,9 +14,9 @@ Meow Yes Cat, Anyways...
     <br />
     <br />
 
-    ·
+    
     <a href="https://github.com/BedsRoom/BedsRadio/issues">Report Bug</a>
-    ·
+    
     <a href="https://github.com/BedsRoom/BedsRadio/issues">Request Feature</a>
   </p>
 </p>
