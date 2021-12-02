@@ -21,6 +21,7 @@ Meow Yes Cat, Anyways...
 ## 🎭 Features
 
 - [x] Music
+- [x] Slash Commands
 - [x] 24/7
 - [x] custom prefix
 - [x] filters
