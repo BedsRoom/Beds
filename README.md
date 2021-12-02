@@ -1,46 +1,25 @@
 Meow Yes Cat, Anyways...
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fbrblacky%2Flavamusic&envs=COlOR%2CLOGS%2CMONGO_URI%2COWNERID%2CPREFIX%2CSPOTIFYID%2CSPOTIFYSECRET%2CTOKEN&optionalEnvs=COlOR%2COWNERID&COlORDesc=embed+colour+code+hex&LOGSDesc=Channel+I%27d&MONGO_URIDesc=Your+Mongo+url&OWNERIDDesc=your+discord+id&PREFIXDesc=your+bot+prefix&SPOTIFYIDDesc=Spotify+client+id&SPOTIFYSECRETDesc=Spotify+client+secret&TOKENDesc=Your+bot%27s+bot+token.&COlORDefault=%23303236&PREFIXDefault=%21&referralCode=kcnA8M)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/brblacky/lavamusic)
-[![Run on Repl.it](https://repl.it/badge/github/brblacky/lavamusic)](https://repl.it/github/brblacky/lavamusic)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/brblacky/lavamusic)
-
-
-[![Version][version-shield]](version-url)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=lavamusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
+  <a href="https://github.com/bedsroom/BedsRadio">
     <img src="https://media.discordapp.net/attachments/876035356460462090/887728792926290091/20210820_124325.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
-  <h3 align="center">lavamusic</h3>
+  <h3 align="center">BedsRadio</h3>
 
   <p align="center">
-    Lavamusic is  a powerful music Bot
+    BedsRadio is  a powerful music Bot
     <br />
     <br />
-    <a href="https://discord.com/api/oauth2/authorize?client_id=892268662487121970&permissions=536870911991&redirect_uri=https%3A%2F%2Fdiscord.gg%2FjN8AKsPcwu&response_type=code&scope=guilds.join%20bot%20applications.commands">Invite Lavamusic</a>
+
     ·
-    <a href="https://github.com/brblacky/lavamusic/issues">Report Bug</a>
+    <a href="https://github.com/BedsRoom/BedsRadio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/brblacky/lavamusic/issues">Request Feature</a>
+    <a href="https://github.com/BedsRoom/BedsRadio/issues">Request Feature</a>
   </p>
 </p>
-
-
-## 📝 Tutorial
-
-A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://youtu.be/x5lQD2rguz0)
-
 
 ## 🎭 Features
 
@@ -93,47 +72,15 @@ Warning: Java v14 has issues with Lavalink.
 - http (you can use radio for it)`*`
 - spotify`*`
 - deezer`*`
-
-
-<!-- INSTALL -->
-## 🚀 Installation
-```
-git clone https://github.com/brblacky/lavamusic.git
-```
-After cloning, run an
-```
-npm install
-```
-* Start the bot with `node index.js`
-
-to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/nodemon) as it makes testing *much* easier.
-
-## intents
-
-<p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
-    <img src="https://media.discordapp.net/attachments/848492641585725450/894114853382410260/unknown.png">
-
-  </a>
 </p>
-When Your Running The Code You Must Have Gotten This Error To Fix This Head Over To Your Bots Discord Application and Go To The Bot Settings And Find This
-
-<p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
-    <img src="https://media.discordapp.net/attachments/848492641585725450/894115221701001216/unknown.png">
-
-  </a>
-</p>
-Then Turn On Both Of Those Settings And Click "Save Changes" Then Your Are Done And The It Should Be Fixed
-<!-- CONFIGURATION -->
 
 ## ⚙️ Configurations
 
      "TOKEN": "", //Discord bot token 
      "MONGOURL": "",  //MongoDb url
      "KSOFT_API_KEY": "",  //ksoft api
-     "PREFIX": "!",  //Default prefix
-     "OWNERID": "491577179495333903",  //Owner id
+     "PREFIX": "",  //Default prefix
+     "OWNERID": "",  //Owner id
      "SpotifyID": "",  //spotify client ID
      "SpotifySecret": "", //spotify client secret
      "embedColor": "",  //default embed color
@@ -153,14 +100,14 @@ Then Turn On Both Of Those Settings And Click "Save Changes" Then Your Are Done 
 <!-- ABOUT THE PROJECT -->
 
 ## 🌀 About
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brblacky&repo=lavamusic&theme=tokyonight)](https://github.com/brblacky/lavamusic)
+[![Readme Card]
 
- Lavamusic is a lavalink music bot base in [erela.js](https://github.com/MenuDocs/erela.js)
+ BedsRaio is a lavalink music bot base in [erela.js](https://github.com/MenuDocs/erela.js)
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 💌 Support Server
 [![DiscordBanner](https://invidget.switchblade.xyz/gfcv94hDhv)](https://discord.gg/gfcv94hDhv)
-[Support Server](https://discord.gg/gfcv94hDhv) - lavamusic's Support Server Invite
+[Support Server](https://discord.gg/gfcv94hDhv) - BedsRadio's Support Server Invite
 
 
 <!-- LICENSE -->
