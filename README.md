@@ -12,13 +12,7 @@ Meow Yes Cat, Anyways...
   <p align="center">
     BedsRadio is  a powerful music Bot
     <br />
-    <br />
-
-    
-    <a href="https://github.com/BedsRoom/BedsRadio/issues">Report Bug</a>
-    
-    <a href="https://github.com/BedsRoom/BedsRadio/issues">Request Feature</a>
-  </p>
+   
 </p>
 
 ## 🎭 Features
