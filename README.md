@@ -31,19 +31,6 @@ Meow Yes Cat, Anyways...
 - [ ] Play Buttons
 - [ ] Api fixes
 
-
-## 🖼️ Screenshots
-<br />
-<p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
-    <img src="https://media.discordapp.net/attachments/876035356460462090/912404827118641202/Screenshot_20211122-234019__01.jpg">
-    <img src="https://media.discordapp.net/attachments/876035356460462090/910856250084970518/Screenshot_20211118-170634__01.jpg">
-    <img src="https://media.discordapp.net/attachments/876035356460462090/910855739969527849/Screenshot_20211118-170456__01.jpg">
-    <img src="https://media.discordapp.net/attachments/876035356460462090/911442921738350622/Screenshot_20211120-075640__01.jpg">
-
-  </a>
-</p>
-
 ## 📎 Requirements
 * [Nodejs](https://nodejs.org/en/)-v16 
 * [Discord.js](https://github.com/discordjs/discord.js/)-v13
@@ -86,7 +73,7 @@ Warning: Java v14 has issues with Lavalink.
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 💌 Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/gfcv94hDhv)](https://discord.gg/gfcv94hDhv)
-[Support Server](https://discord.gg/gfcv94hDhv) - BedsRadio's Support Server Invite
+[![DiscordBanner](https://invidget.switchblade.xyz/7UVyMnnPXW)](https://discord.gg/7UVyMnnPXW)
+[Support Server](https://discord.gg/7UVyMnnPXW) - BedsRadio's Support Server Invite
 
 
