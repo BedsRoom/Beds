@@ -18,7 +18,7 @@ Meow Yes Cat, Anyways...
 ## **IMPORTANT**
 | This bot is **NOT** for the public so of course the code will not work, you may explore it and ry to fix it but most things is just custom so good luck!
 
-## 🎭 Features
+## 🎭 Updates/Upcoming Updates
 
 - [x] Music
 - [x] Slash Commands
@@ -26,6 +26,7 @@ Meow Yes Cat, Anyways...
 - [x] custom prefix
 - [x] filters
 - [x] More
+- [ ] Play Buttons
 - [ ] Api fixes
 
 
