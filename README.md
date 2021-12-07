@@ -22,14 +22,14 @@ Meow Yes Cat, Anyways...
 
 ## 🎭 Updates/Upcoming Updates
 
+- [x] On a Custom Code For Music
+- [x] On a Custom Code For Moderation/Dashboard
 - [x] Music
 - [x] Slash Commands
 - [x] 24/7
 - [x] custom prefix
 - [x] filters
 - [x] More
-- [ ] DM Help/Info
-- [ ] Play Buttons
 - [ ] Api fixes
 
 ## 📎 Requirements
