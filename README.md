@@ -22,6 +22,7 @@ Meow Yes Cat, Anyways...
 
 ## 🎭 Updates/Upcoming Updates
 
+- [ ] Bug fixes for December 10th+
 - [x] On a Custom Code For Music
 - [x] On a Custom Code For Moderation/Dashboard
 - [x] Music
