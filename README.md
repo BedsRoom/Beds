@@ -28,6 +28,7 @@ Meow Yes Cat, Anyways...
 - [x] custom prefix
 - [x] filters
 - [x] More
+- [ ] DM Help/Info
 - [ ] Play Buttons
 - [ ] Api fixes
 
