@@ -80,3 +80,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
 [Support Server](https://discord.gg/7UVyMnnPXW) - BedsRadio's Support Server Invite
 
 
+**Profile**  
+  | <img src = "https://avatars.githubusercontent.com/u/91224083?v=4"> | 
+| :----------------------------------------------------------: | 
+|     [BedsRoom](https://github.com/bedsroom) |   
