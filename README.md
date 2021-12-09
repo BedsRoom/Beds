@@ -22,16 +22,11 @@ Meow Yes Cat, Anyways...
 
 ## 🎭 Updates/Upcoming Updates
 
-- [ ] Remove some updates to make Read.md cleaner (dec. 10th+)
+- [x] Remove some updates to make Read.md cleaner
 - [ ] Bug fixes for December 10th+
 - [x] On a Custom Code For Music
 - [x] On a Custom Code For Moderation/Dashboard
-- [x] Music
-- [x] Slash Commands
-- [x] 24/7
-- [x] custom prefix
-- [x] filters
-- [x] More
+- [x] Logo as loading screen
 - [ ] Api fixes
 
 ## 📎 Requirements
