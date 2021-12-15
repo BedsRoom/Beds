@@ -24,7 +24,7 @@ Meow Yes Cat, Anyways...
 ## 🎭 Updates/Upcoming Updates
 
 - [x] Remove some updates to make Read.md cleaner
-- [ ] Bug fixes for December 10th+
+- [x] Bug fixes for December 10th+
 - [x] On a Custom Code For Music
 - [x] On a Custom Code For Moderation/Dashboard
 - [x] Logo as loading screen
