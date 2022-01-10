@@ -62,6 +62,7 @@ Warning: Java v14 has issues with Lavalink.
 - deezer`*`
 </p>
 
+## About Music
 <!-- About Music -->
 Currently this code is seperated from the music istelf, if music is used, it is using a lavanode, to install the version needed to be used; npm init -y && npm i --save-dev node@16.6.0 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH . 
 
