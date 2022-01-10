@@ -1,6 +1,6 @@
 Meow Yes Cat, Anyways...
 
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BedsRadio&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Beds&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 <!-- PROJECT LOGO -->
 <br />
