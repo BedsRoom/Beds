@@ -23,6 +23,8 @@ Meow Yes Cat, Anyways...
 
 ## 🎭 Updates/Upcoming Updates
 
+- [ ] **WORKING 24/7 SAME BOT for Music**
+- [ ] **Second bot for testing Music**
 - [x] Remove some updates to make Read.md cleaner
 - [x] Bug fixes for December 10th+
 - [x] On a Custom Code For Music
