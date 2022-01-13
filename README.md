@@ -17,9 +17,8 @@ Meow Yes Cat, Anyways...
    
 </p>
 
-## **IMPORTANT**
-| Bot now public, visit the dashboard! https://www.bedsdash.cf
-| This bot is **NOT** for the public so of course the code will not work, you may explore it and ry to fix it but most things is just custom so good luck!
+## Docs
+Please read the [Docs](https://www.bedsdoc.cf/) to know some more about this bot.
 
 ## 🎭 Updates/Upcoming Updates
 
