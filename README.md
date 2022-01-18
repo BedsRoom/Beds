@@ -22,8 +22,8 @@ Please read the [Docs](https://www.bedsdoc.cf/) to know some more about this bot
 
 ## 🎭 Updates/Upcoming Updates
 
-- [ ] **WORKING 24/7 SAME BOT for Music**
-- [ ] **Second bot for testing Music**
+- [x] **WORKING 24/7 SAME BOT for Music** (somewhat working)
+- [ ] github for BedsRadio
 - [x] Remove some updates to make Read.md cleaner
 - [x] Bug fixes for December 10th+
 - [x] On a Custom Code For Music
