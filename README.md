@@ -85,3 +85,5 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
   | <img src = "https://avatars.githubusercontent.com/u/91224083?v=4"> | 
 | :----------------------------------------------------------: | 
 |     [BedsRoom](https://github.com/bedsroom) |   
+
+<iframe class="rounded" src="https://emerald.widgetbot.io/channels/soon" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe>
